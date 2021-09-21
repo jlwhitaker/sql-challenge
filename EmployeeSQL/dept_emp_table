@@ -1,0 +1,8 @@
+-- Drop table if exists
+DROP TABLE dept_emp;
+
+-- Create new table
+CREATE TABLE dept_emp (
+	emp_no VARCHAR,
+	dept_no VARCHAR
+);
