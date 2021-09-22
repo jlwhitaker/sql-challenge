@@ -3,6 +3,6 @@ DROP TABLE salaries;
 
 -- Create new table
 CREATE TABLE salaries (
-	emp_no VARCHAR,
-	salaries INT
+	emp_no INTEGER,
+	salaries INTEGER
 );

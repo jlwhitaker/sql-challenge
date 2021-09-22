@@ -3,6 +3,6 @@ DROP TABLE dept_emp;
 
 -- Create new table
 CREATE TABLE dept_emp (
-	emp_no VARCHAR,
+	emp_no INTEGER,
 	dept_no VARCHAR
 );
