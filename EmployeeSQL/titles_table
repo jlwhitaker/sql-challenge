@@ -1,8 +1,0 @@
--- Drop table if exists
-DROP TABLE titles;
-
--- Create new table
-CREATE TABLE titles (
-	title_id VARCHAR,
-	title VARCHAR
-);

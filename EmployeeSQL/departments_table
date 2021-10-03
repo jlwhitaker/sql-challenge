@@ -1,8 +1,0 @@
--- Drop table if exists
-DROP TABLE departments;
-
--- Create new table
-CREATE TABLE departments (
-	dept_no VARCHAR,
-	dept_name VARCHAR
-);

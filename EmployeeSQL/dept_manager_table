@@ -1,8 +1,0 @@
--- Drop table if exists
-DROP TABLE dept_manager;
-
--- Create new table
-CREATE TABLE dept_manager (
-	dept_no VARCHAR,
-	emp_no INTEGER
-);

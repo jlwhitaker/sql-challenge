@@ -1,8 +1,0 @@
--- Drop table if exists
-DROP TABLE salaries;
-
--- Create new table
-CREATE TABLE salaries (
-	emp_no INTEGER,
-	salaries INTEGER
-);
